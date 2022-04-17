@@ -22,5 +22,7 @@ S. Belwal, R. Bhattacharjya, K. Goswami and D. S. Banerjee, "ACLA: An Approximat
 ```
 # Contact
 You may reach out to:
+
 Shobhit Belwal (shobhitbelwal02@gmail.com)
+
 Rajat Bhattacharjya (rajatquiz@gmail.com)
