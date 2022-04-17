@@ -10,7 +10,7 @@ This repository is licensed under [MIT LICENSE](https://github.com/shobro/ACLA/b
 
 S. Belwal, R. Bhattacharjya, K. Goswami and D. S. Banerjee, "ACLA: An Approximate Carry-Lookahead Adder with Intelligent Carry Judgement and Correction," 2021 22nd International Symposium on Quality Electronic Design (ISQED), 2021, pp. 1-7, doi: 10.1109/ISQED51717.2021.9424329.
 ```bibtex
-@INPROCEEDINGS{9424329,
+@INPROCEEDINGS{acla,
   author={Belwal, Shobhit and Bhattacharjya, Rajat and Goswami, Kaustav and Banerjee, Dip Sankar},
   booktitle={2021 22nd International Symposium on Quality Electronic Design (ISQED)}, 
   title={ACLA: An Approximate Carry-Lookahead Adder with Intelligent Carry Judgement and Correction}, 
