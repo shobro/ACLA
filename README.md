@@ -8,7 +8,7 @@ ACLA is an Approximate Carry-Lookahead Adder that can be used in error-tolerant 
 
 For more details, kindly visit our publication: 
 
-[1] S. Belwal, R. Bhattacharjya, K. Goswami and D. S. Banerjee, "ACLA: An Approximate Carry-Lookahead Adder with Intelligent Carry Judgement and Correction," 2021 22nd International Symposium on Quality Electronic Design (ISQED), 2021, pp. 1-7, doi: 10.1109/ISQED51717.2021.9424329.
+[1] S. Belwal, R. Bhattacharjya, K. Goswami and D. S. Banerjee, "ACLA: An Approximate Carry-Lookahead Adder with Intelligent Carry Judgement and Correction," 2021 22nd International Symposium on Quality Electronic Design (ISQED), 2021, pp. 1-7, doi: 10.1109/ISQED51717.2021.9424329. [link](https://ieeexplore.ieee.org/document/9424329)
 
 # Files in The Repository
 The repository contains both software and hardware models of ACLA. The folder descriptions are given below:
