@@ -13,13 +13,13 @@ For more details, kindly visit our [publication](https://ieeexplore.ieee.org/doc
 # Files in The Repository
 The repository contains both software and hardware models of ACLA. The folder descriptions are given below:
 
-c_code: Contains ACLA coded in C.
+**c_code**: Contains ACLA coded in C.
 
-octave: Contains GNU Octave models of ACLA. acla.m contains the main function to be called while remaining files contains assisting functions for acla.m. 
+**octave**: Contains GNU Octave models of ACLA. acla.m contains the main function to be called while remaining files contains assisting functions for acla.m. 
 
 Example- Call acla(x,y,M,N) where x, y are decimal numbers while M is the total bit length and N is the block size to run software implementation of ACLA.  
          
-verilog: Contains ACLA implementation in verilog.
+**verilog**: Contains ACLA implementation in verilog.
 Naming convention followed is "adderM_N.v" where M is the total bit length and N is block size. The files "blocks.v" and "fulladder.v" contain the common helper functions for "adderM_N.v" files. 
 
 Example - To run ACLA model of 32 bits total bit length and 8 bits block size use "adder32_8.v" file.
