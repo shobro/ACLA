@@ -1,5 +1,5 @@
 
-module adder8_4(x,y,add);				// 16 bit blocksize 8
+module adder8_4(x,y,add);				
 	input [7:0]x,y;
 	output [8:0]add;
 	wire c1;
